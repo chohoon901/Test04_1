@@ -6,7 +6,7 @@
     <title>Hello, HTML,CSS, AND JSP!!!</title> <!-- 웹페이지 제목 -->
 </head>
 <body>
-<h2>Hello, JSP!</h2>
+<h2>Hello, HTML, CSS, AND JSP!</h2>
 <p>The time on the server is <%= new java.util.Date() %></p>
 </body>
 </html>
